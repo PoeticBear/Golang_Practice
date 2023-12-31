@@ -1,17 +1,17 @@
 package main
 
-import (
-	"Golang_Practice/user"
-	"Golang_Practice/variable"
-	"fmt"
-)
+import "Golang_Practice/formattedoutput"
 
 func main() {
-	fmt.Println("Hello, World!")
+	// fmt.Println("Hello, World!")
+	// result := user.HelloUser()
+	// fmt.Println(result)
+	// variable.RunCode()
+	// constant.RunExample()
 
-	result := user.HelloUser()
-	fmt.Println(result)
-
-	variable.RunCode()
-
+	// datatype.RunExample()
+	// booleanPra.RunExample()
+	// numtype.RunExample()
+	// stringPra.RunExample()
+	formattedoutput.RunExample()
 }
