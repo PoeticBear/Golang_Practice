@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Golang_Practice/homework06"
+	"Golang_Practice/homework08"
 )
 
 func main() {
@@ -35,5 +35,9 @@ func main() {
 	// fmt.Println(homework05.FindStudentByName("张三"))
 
 	// homework06.TestPolymorphism()
-	homework06.TestEmbed()
+	// homework06.TestEmbed()
+
+	// homework07.ExcuteTest()
+	// osFile.ExcuteTest()
+	homework08.ExcuteTest()
 }
