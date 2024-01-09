@@ -1,8 +1,6 @@
 package main
 
-import (
-	"Golang_Practice/homework08"
-)
+import "Golang_Practice/osFile"
 
 func main() {
 	// fmt.Println("Hello, World!")
@@ -38,6 +36,7 @@ func main() {
 	// homework06.TestEmbed()
 
 	// homework07.ExcuteTest()
-	// osFile.ExcuteTest()
-	homework08.ExcuteTest()
+	osFile.ExcuteTest()
+	// homework08.ExcuteTest()
+
 }

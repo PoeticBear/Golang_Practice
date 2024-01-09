@@ -17,3 +17,7 @@ func createDir() {
 	}
 	fmt.Println("创建目录成功")
 }
+
+func checkDir() {
+
+}
